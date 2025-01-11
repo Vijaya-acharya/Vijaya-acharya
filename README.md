@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Vijaya-acharya
 - 👀 I’m interested in qa
 - 🌱 I’m totally new for this
-- 💞️ I’m making this account because i want to see what happen next
 - 📫 How to reach me jpzprhrrbr@privaterelay.appleid.com
 
 <!---
