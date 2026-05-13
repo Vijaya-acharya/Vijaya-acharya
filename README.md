@@ -1,9 +1,20 @@
-- 👋 Hi, I’m @Vijaya-acharya
-- 👀 I’m interested in qa
-- 🌱 I’m totally new for this
-- 📫 How to reach me jpzprhrrbr@privaterelay.appleid.com
+# 👋 Hello, I'm Vijaya Acharya
 
-<!---
-Vijaya-acharya/Vijaya-acharya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌍 Based in North Carolina, USA  
+🌱 Currently learning Git & GitHub  
+💡 Always curious, always growing  
+
+---
+
+## 🛠️ What I'm Working On
+- 📚 Learning version control with Git
+- 🚀 Building my GitHub profile
+
+---
+
+## 📫 Connect With Me
+- 💼 Open to learning and collaboration
+
+---
+
+*"Every expert was once a beginner."* 🚀
